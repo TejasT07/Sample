@@ -1,0 +1,15 @@
+
+.images {
+    display: flex;
+    justify-content: space-evenly;
+    /* margin-bottom: 20px; */
+  }
+  .images img {
+    width: 15rem;
+    max-width: 40%;
+    height: auto;
+  }
+  .images img :hover{
+    animation: forwards;
+    transition: color 0.3s ease-in-out;
+  }

@@ -1,0 +1,40 @@
+.containerNew {
+
+    max-width: 400px;
+    margin: 80px;
+    margin-left: 560px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    justify-content: center;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 155px;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 100;
+
+    
+}
